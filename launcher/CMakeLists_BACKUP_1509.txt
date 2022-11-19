@@ -748,11 +748,7 @@ SET(LAUNCHER_SOURCES
     ui/pages/modplatform/legacy_ftb/ListModel.h
     ui/pages/modplatform/legacy_ftb/ListModel.cpp
 
-    ui/pages/modplatform/flame/FlameModel.cpp
-    ui/pages/modplatform/flame/FlameModel.h
-    ui/pages/modplatform/flame/FlamePage.cpp
-    ui/pages/modplatform/flame/FlamePage.h
-
+<<<<<<< HEAD
     ui/pages/modplatform/import_ftb/PackInstallTask.cpp
     ui/pages/modplatform/import_ftb/PackInstallTask.h
     ui/pages/modplatform/import_ftb/Model.cpp
@@ -760,6 +756,14 @@ SET(LAUNCHER_SOURCES
     ui/pages/modplatform/import_ftb/FTBAPage.cpp
     ui/pages/modplatform/import_ftb/FTBAPage.h
 
+||||||| 0a827ba7 (NOISSUE Remove FTB and Curse integration)
+=======
+    ui/pages/modplatform/flame/FlameModel.cpp
+    ui/pages/modplatform/flame/FlameModel.h
+    ui/pages/modplatform/flame/FlamePage.cpp
+    ui/pages/modplatform/flame/FlamePage.h
+
+>>>>>>> parent of 0a827ba7 (NOISSUE Remove FTB and Curse integration)
     ui/pages/modplatform/modrinth/ModrinthData.h
     ui/pages/modplatform/modrinth/ModrinthModel.cpp
     ui/pages/modplatform/modrinth/ModrinthModel.h
